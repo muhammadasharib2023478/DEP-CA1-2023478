@@ -1,2 +1,4 @@
-# DEP-CA1-2023478
-Data Exploration &amp; Preparation  Programme schedules are all published on the CCT IQR Provider Profile
+# CA1 – Data Exploration & Preparation
+Domain: Population and Society
+Dataset: UCI Adult (Census Income)
+Source: https://archive.ics.uci.edu/dataset/2/adult
